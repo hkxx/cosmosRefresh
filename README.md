@@ -1,19 +1,19 @@
-Last update: Sun Dec 24 2023 06:15:35 GMT+0000 (Coordinated Universal Time)
-  ### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
+Last update: Sun Dec 24 2023 12:21:54 GMT+0000 (Coordinated Universal Time)
+  ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
+&emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
+&emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
+### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
 &emsp; LCD :green_circle: https://cosmos-lcd.quickapi.com:443  
 &emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
-### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
-&emsp; LCD :green_circle: https://api.akash.forbole.com:443  
-&emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
 ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle: https://axelar-lcd.quickapi.com:443  
 &emsp; RPC :green_circle: https://axelar-rpc.quickapi.com:443  
-### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
-&emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
-&emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle: https://gravitychain.io:1317  
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
+### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
+&emsp; LCD :green_circle: https://api.akash.forbole.com:443  
+&emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
 ### <img alt="bandchain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png" width="30" height="30"> bandchain
 &emsp; LCD :green_circle: https://laozi1.bandchain.org/api  
 &emsp; RPC :green_circle: http://rpc.laozi1.bandchain.org:80  
