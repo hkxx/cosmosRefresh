@@ -1,5 +1,8 @@
-Last update: Sat Mar 09 2024 00:53:25 GMT+0000 (Coordinated Universal Time)
-  ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
+Last update: Sat Mar 09 2024 06:17:37 GMT+0000 (Coordinated Universal Time)
+  ### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
+&emsp; LCD :green_circle: https://cosmos-lcd.quickapi.com:443  
+&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
+### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
@@ -11,9 +14,6 @@ Last update: Sat Mar 09 2024 00:53:25 GMT+0000 (Coordinated Universal Time)
 ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle: https://axelar-lcd.quickapi.com:443  
 &emsp; RPC :green_circle: https://axelar-rpc.quickapi.com:443  
-### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
-&emsp; LCD :green_circle: https://cosmos-lcd.quickapi.com:443  
-&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
 ### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
 &emsp; LCD :green_circle: https://api.akash.forbole.com:443  
 &emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
@@ -26,15 +26,15 @@ Last update: Sat Mar 09 2024 00:53:25 GMT+0000 (Coordinated Universal Time)
 ### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
+### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.bitcanna.io/  
 ### <img alt="umee" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png" width="30" height="30"> umee
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://umee-rpc.polkachu.com  
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-kujira.whispernode.com  
-### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.bitcanna.io/  
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://osmosis-rpc.quickapi.com:443  
