@@ -1,10 +1,10 @@
-Last update: Wed Mar 13 2024 12:23:03 GMT+0000 (Coordinated Universal Time)
-  ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
-&emsp; LCD :green_circle: https://gravitychain.io:1317  
-&emsp; RPC :green_circle: https://gravitychain.io:26657  
-### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
+Last update: Wed Mar 13 2024 18:15:25 GMT+0000 (Coordinated Universal Time)
+  ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
+### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
+&emsp; LCD :green_circle: https://gravitychain.io:1317  
+&emsp; RPC :green_circle: https://gravitychain.io:26657  
 ### <img alt="bandchain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png" width="30" height="30"> bandchain
 &emsp; LCD :green_circle: https://laozi1.bandchain.org/api  
 &emsp; RPC :green_circle: http://rpc.laozi1.bandchain.org:80  
