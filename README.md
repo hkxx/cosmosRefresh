@@ -1,4 +1,4 @@
-Last update: Fri May 17 2024 12:24:24 GMT+0000 (Coordinated Universal Time)
+Last update: Fri May 17 2024 18:18:13 GMT+0000 (Coordinated Universal Time)
   ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
@@ -17,21 +17,21 @@ Last update: Fri May 17 2024 12:24:24 GMT+0000 (Coordinated Universal Time)
 ### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
-### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.bitcanna.io/  
 ### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf/  
-### <img alt="umee" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png" width="30" height="30"> umee
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://umee-rpc.polkachu.com  
 ### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
+### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.bitcanna.io/  
+### <img alt="umee" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png" width="30" height="30"> umee
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://umee-rpc.polkachu.com  
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-kujira.whispernode.com  
