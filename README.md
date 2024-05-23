@@ -1,4 +1,4 @@
-Last update: Thu May 23 2024 01:00:09 GMT+0000 (Coordinated Universal Time)
+Last update: Thu May 23 2024 06:19:44 GMT+0000 (Coordinated Universal Time)
   ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle: https://gravitychain.io:1317  
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
@@ -11,15 +11,15 @@ Last update: Thu May 23 2024 01:00:09 GMT+0000 (Coordinated Universal Time)
 ### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
 &emsp; LCD :green_circle: https://api.akash.forbole.com:443  
 &emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
-### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf/  
 ### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.bitcanna.io/  
+### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
