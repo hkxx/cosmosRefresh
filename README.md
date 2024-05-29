@@ -1,4 +1,4 @@
-Last update: Wed May 29 2024 01:04:13 GMT+0000 (Coordinated Universal Time)
+Last update: Wed May 29 2024 06:18:38 GMT+0000 (Coordinated Universal Time)
   ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle: https://gravitychain.io:1317  
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
