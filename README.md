@@ -1,8 +1,5 @@
-Last update: Wed Jul 24 2024 18:19:08 GMT+0000 (Coordinated Universal Time)
-  ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
-&emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
-&emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
-### <img alt="bandchain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png" width="30" height="30"> bandchain
+Last update: Thu Jul 25 2024 01:05:03 GMT+0000 (Coordinated Universal Time)
+  ### <img alt="bandchain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png" width="30" height="30"> bandchain
 &emsp; LCD :green_circle: https://laozi1.bandchain.org/api  
 &emsp; RPC :green_circle: http://rpc.laozi1.bandchain.org:80  
 ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
@@ -26,15 +23,18 @@ Last update: Wed Jul 24 2024 18:19:08 GMT+0000 (Coordinated Universal Time)
 ### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
-### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-kujira.whispernode.com  
+### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
 ### <img alt="umee" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png" width="30" height="30"> umee
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://umee-rpc.polkachu.com  
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://osmosis-rpc.quickapi.com:443  
+### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
+&emsp; LCD :green_circle: https://secretnetwork-lcd.stakely.io  
+&emsp; RPC :green_circle: https://secretnetwork-rpc.stakely.io  
