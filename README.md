@@ -1,10 +1,10 @@
-Last update: Wed Aug 28 2024 12:29:54 GMT+0000 (Coordinated Universal Time)
-  ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
-&emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
-&emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
-### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
+Last update: Wed Aug 28 2024 18:19:24 GMT+0000 (Coordinated Universal Time)
+  ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle: https://gravitychain.io:1317  
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
+### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
+&emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
+&emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
 ### <img alt="bandchain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png" width="30" height="30"> bandchain
 &emsp; LCD :green_circle: https://laozi1.bandchain.org/api  
 &emsp; RPC :green_circle: http://rpc.laozi1.bandchain.org:80  
@@ -17,12 +17,12 @@ Last update: Wed Aug 28 2024 12:29:54 GMT+0000 (Coordinated Universal Time)
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf/  
-### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
 ### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.bitcanna.io/  
+### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
 ### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
