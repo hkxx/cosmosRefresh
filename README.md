@@ -1,4 +1,4 @@
-Last update: Sun Oct 27 2024 18:19:36 GMT+0000 (Coordinated Universal Time)
+Last update: Mon Oct 28 2024 01:17:08 GMT+0000 (Coordinated Universal Time)
   ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
