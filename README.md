@@ -1,4 +1,4 @@
-Last update: Sun Nov 24 2024 18:20:11 GMT+0000 (Coordinated Universal Time)
+Last update: Mon Nov 25 2024 01:19:03 GMT+0000 (Coordinated Universal Time)
   ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
@@ -17,12 +17,12 @@ Last update: Sun Nov 24 2024 18:20:11 GMT+0000 (Coordinated Universal Time)
 ### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
-### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.bitcanna.io/  
 ### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
+### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.bitcanna.io/  
 ### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
