@@ -1,4 +1,4 @@
-Last update: Thu Dec 05 2024 01:20:49 GMT+0000 (Coordinated Universal Time)
+Last update: Thu Dec 05 2024 06:24:54 GMT+0000 (Coordinated Universal Time)
   ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle: https://axelar-lcd.quickapi.com:443  
 &emsp; RPC :green_circle: https://axelar-rpc.quickapi.com:443  
@@ -23,14 +23,14 @@ Last update: Thu Dec 05 2024 01:20:49 GMT+0000 (Coordinated Universal Time)
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.kaiyo.kujira.setten.io  
-### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
 ### <img alt="umee" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png" width="30" height="30"> umee
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://umee-rpc.polkachu.com  
-### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
+### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
 &emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
+### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
+&emsp; LCD :green_circle: https://secretnetwork-lcd.stakely.io  
 &emsp; RPC :green_circle: https://secretnetwork-rpc.stakely.io  
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle:   
