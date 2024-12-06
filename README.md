@@ -1,4 +1,4 @@
-Last update: Fri Dec 06 2024 12:34:02 GMT+0000 (Coordinated Universal Time)
+Last update: Fri Dec 06 2024 18:23:27 GMT+0000 (Coordinated Universal Time)
   ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle: https://axelar-lcd.quickapi.com:443  
 &emsp; RPC :green_circle: https://axelar-rpc.quickapi.com:443  
@@ -32,9 +32,9 @@ Last update: Fri Dec 06 2024 12:34:02 GMT+0000 (Coordinated Universal Time)
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://secretnetwork-rpc.stakely.io  
-### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://gravitychain.io:26657  
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://osmosis-rpc.quickapi.com:443  
+### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://gravitychain.io:26657  
