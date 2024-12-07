@@ -1,4 +1,4 @@
-Last update: Sat Dec 07 2024 01:19:32 GMT+0000 (Coordinated Universal Time)
+Last update: Sat Dec 07 2024 06:22:27 GMT+0000 (Coordinated Universal Time)
   ### <img alt="bandchain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png" width="30" height="30"> bandchain
 &emsp; LCD :green_circle: https://laozi1.bandchain.org/api  
 &emsp; RPC :green_circle: http://rpc.laozi1.bandchain.org:80  
@@ -30,7 +30,7 @@ Last update: Sat Dec 07 2024 01:19:32 GMT+0000 (Coordinated Universal Time)
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://umee-rpc.polkachu.com  
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
-&emsp; LCD :green_circle: https://secretnetwork-lcd.stakely.io  
+&emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://secretnetwork-rpc.stakely.io  
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle:   
