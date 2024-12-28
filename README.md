@@ -1,4 +1,4 @@
-Last update: Sat Dec 28 2024 12:28:57 GMT+0000 (Coordinated Universal Time)
+Last update: Sat Dec 28 2024 18:20:02 GMT+0000 (Coordinated Universal Time)
   ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
@@ -17,9 +17,9 @@ Last update: Sat Dec 28 2024 12:28:57 GMT+0000 (Coordinated Universal Time)
 ### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.bitcanna.io/  
-### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
+### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
 &emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
+&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://kujira-rpc.polkachu.com  
@@ -29,9 +29,9 @@ Last update: Sat Dec 28 2024 12:28:57 GMT+0000 (Coordinated Universal Time)
 ### <img alt="umee" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png" width="30" height="30"> umee
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://umee-rpc.polkachu.com  
-### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
 &emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
+&emsp; RPC :green_circle:   
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
