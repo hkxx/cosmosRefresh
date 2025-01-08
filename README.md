@@ -1,4 +1,4 @@
-Last update: Tue Jan 07 2025 18:21:54 GMT+0000 (Coordinated Universal Time)
+Last update: Wed Jan 08 2025 01:14:37 GMT+0000 (Coordinated Universal Time)
   ### <img alt="bandchain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png" width="30" height="30"> bandchain
 &emsp; LCD :green_circle: https://laozi1.bandchain.org/api  
 &emsp; RPC :green_circle: http://rpc.laozi1.bandchain.org:80  
@@ -11,24 +11,24 @@ Last update: Tue Jan 07 2025 18:21:54 GMT+0000 (Coordinated Universal Time)
 ### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
-### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
+### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
 &emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://kujira-rpc.polkachu.com  
+&emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
+### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf/  
 ### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.bitcanna.io/  
-### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
+&emsp; RPC :green_circle: https://kujira-rpc.polkachu.com  
 ### <img alt="umee" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png" width="30" height="30"> umee
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://umee-rpc.polkachu.com  
-### <img alt="injective" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png" width="30" height="30"> injective
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://injective-rpc.polkachu.com  
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
